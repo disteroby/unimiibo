@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/unimiibo/static/css/main.5c5a5dc6.css",
-    "main.js": "/unimiibo/static/js/main.23317840.js",
+    "main.js": "/unimiibo/static/js/main.6b978da9.js",
     "static/js/787.6c610d2d.chunk.js": "/unimiibo/static/js/787.6c610d2d.chunk.js",
     "static/media/amiibo_bg.jpg": "/unimiibo/static/media/amiibo_bg.f1bfea95b3f068d5f16d.jpg",
     "static/media/game_smbu.jpg": "/unimiibo/static/media/game_smbu.834a33131b4d36a0608c.jpg",
@@ -23,11 +23,11 @@
     "static/media/amiibo_placeholder_404.png": "/unimiibo/static/media/amiibo_placeholder_404.7b3cf40e645e35b45a8f.png",
     "index.html": "/unimiibo/index.html",
     "main.5c5a5dc6.css.map": "/unimiibo/static/css/main.5c5a5dc6.css.map",
-    "main.23317840.js.map": "/unimiibo/static/js/main.23317840.js.map",
+    "main.6b978da9.js.map": "/unimiibo/static/js/main.6b978da9.js.map",
     "787.6c610d2d.chunk.js.map": "/unimiibo/static/js/787.6c610d2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c5a5dc6.css",
-    "static/js/main.23317840.js"
+    "static/js/main.6b978da9.js"
   ]
 }
