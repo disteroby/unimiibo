@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/unimiibo/static/css/main.f8586e13.css",
-    "main.js": "/unimiibo/static/js/main.69a294e3.js",
+    "main.css": "/unimiibo/static/css/main.f2936bd9.css",
+    "main.js": "/unimiibo/static/js/main.282be758.js",
     "static/js/787.6c610d2d.chunk.js": "/unimiibo/static/js/787.6c610d2d.chunk.js",
     "static/media/amiibo_bg.jpg": "/unimiibo/static/media/amiibo_bg.f1bfea95b3f068d5f16d.jpg",
     "static/media/game_smbu.jpg": "/unimiibo/static/media/game_smbu.834a33131b4d36a0608c.jpg",
@@ -15,19 +15,19 @@
     "static/media/unimiibo_logo_wh.png": "/unimiibo/static/media/unimiibo_logo_wh.735b184f3c994c51c7e7.png",
     "static/media/Amiibo_read-write_icon.jpg": "/unimiibo/static/media/Amiibo_read-write_icon.c9918f4bbffe8cefcf70.jpg",
     "static/media/Amiibo_read-only_icon.jpg": "/unimiibo/static/media/Amiibo_read-only_icon.15b921e6f2b2e4fdf834.jpg",
-    "static/media/na.png": "/unimiibo/static/media/na.25c5a6c1d90ffd754ca9.png",
-    "static/media/au.png": "/unimiibo/static/media/au.047a49686c4ff6af1fa4.png",
+    "static/media/na.png": "/unimiibo/static/media/na.e7247e196f65859a287a.png",
+    "static/media/au.png": "/unimiibo/static/media/au.b63362af797e42d5c2d3.png",
     "static/media/unimiibo_logo_compact.png": "/unimiibo/static/media/unimiibo_logo_compact.b65cb274c836e7c5d1f3.png",
     "static/media/unimiibo_logo_small.png": "/unimiibo/static/media/unimiibo_logo_small.a3ebe8fe95fd58282ea9.png",
-    "static/media/unimiibo_logo_bg.png": "/unimiibo/static/media/unimiibo_logo_bg.031824bbd5347ca1ca75.png",
+    "static/media/unimiibo_logo_bg.png": "/unimiibo/static/media/unimiibo_logo_bg.0b53e3e0556a895ed2a0.png",
     "static/media/amiibo_placeholder_404.png": "/unimiibo/static/media/amiibo_placeholder_404.7b3cf40e645e35b45a8f.png",
     "index.html": "/unimiibo/index.html",
-    "main.f8586e13.css.map": "/unimiibo/static/css/main.f8586e13.css.map",
-    "main.69a294e3.js.map": "/unimiibo/static/js/main.69a294e3.js.map",
+    "main.f2936bd9.css.map": "/unimiibo/static/css/main.f2936bd9.css.map",
+    "main.282be758.js.map": "/unimiibo/static/js/main.282be758.js.map",
     "787.6c610d2d.chunk.js.map": "/unimiibo/static/js/787.6c610d2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8586e13.css",
-    "static/js/main.69a294e3.js"
+    "static/css/main.f2936bd9.css",
+    "static/js/main.282be758.js"
   ]
 }
