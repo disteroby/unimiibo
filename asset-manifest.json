@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/unimiibo/static/css/main.574931a5.css",
-    "main.js": "/unimiibo/static/js/main.547a583a.js",
+    "main.css": "/unimiibo/static/css/main.b56f8f1a.css",
+    "main.js": "/unimiibo/static/js/main.90763fc8.js",
     "static/js/787.6c610d2d.chunk.js": "/unimiibo/static/js/787.6c610d2d.chunk.js",
     "static/media/amiibo_bg.jpg": "/unimiibo/static/media/amiibo_bg.f1bfea95b3f068d5f16d.jpg",
     "static/media/game_smbu.jpg": "/unimiibo/static/media/game_smbu.834a33131b4d36a0608c.jpg",
@@ -14,26 +14,33 @@
     "static/media/bootstrap-icons.woff2?": "/unimiibo/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
     "static/media/logo_disco.png": "/unimiibo/static/media/logo_disco.4d97955543712c057650.png",
     "static/media/404.svg": "/unimiibo/static/media/404.84b557e1d36854f8f7ff521348631c2d.svg",
+    "static/media/unimiibo_logo_bg_green.jpg": "/unimiibo/static/media/unimiibo_logo_bg_green.8634bb0df1bb1eff059a.jpg",
+    "static/media/unimiibo_logo_bg_blue.jpg": "/unimiibo/static/media/unimiibo_logo_bg_blue.ae1d2d735390666fb4aa.jpg",
     "static/media/unimiibo_logo_wh.png": "/unimiibo/static/media/unimiibo_logo_wh.735b184f3c994c51c7e7.png",
+    "static/media/unimiibo_logo_bg_orange.jpg": "/unimiibo/static/media/unimiibo_logo_bg_orange.8ca28a0b12cf03f9efa9.jpg",
+    "static/media/unimiibo_logo_bg_red.jpg": "/unimiibo/static/media/unimiibo_logo_bg_red.ec8aa189c0f792824f49.jpg",
+    "static/media/unimiibo_logo_bg_yellow.jpg": "/unimiibo/static/media/unimiibo_logo_bg_yellow.d3b1a0ca01b50943586f.jpg",
+    "static/media/unimiibo_logo_bg_purple.jpg": "/unimiibo/static/media/unimiibo_logo_bg_purple.672086f410340fedb9ae.jpg",
+    "static/media/unimiibo_logo_bg_pink.jpg": "/unimiibo/static/media/unimiibo_logo_bg_pink.787b3e1149868846a817.jpg",
     "static/media/Amiibo_read-write_icon.jpg": "/unimiibo/static/media/Amiibo_read-write_icon.c9918f4bbffe8cefcf70.jpg",
+    "static/media/unimiibo_logo_bg_gray.jpg": "/unimiibo/static/media/unimiibo_logo_bg_gray.39f18f1c335aa6b35298.jpg",
     "static/media/Amiibo_read-only_icon.jpg": "/unimiibo/static/media/Amiibo_read-only_icon.15b921e6f2b2e4fdf834.jpg",
     "static/media/na.png": "/unimiibo/static/media/na.e7247e196f65859a287a.png",
     "static/media/au.png": "/unimiibo/static/media/au.b63362af797e42d5c2d3.png",
     "static/media/unimiibo_logo_compact.png": "/unimiibo/static/media/unimiibo_logo_compact.b65cb274c836e7c5d1f3.png",
     "static/media/unimiibo_logo_small.png": "/unimiibo/static/media/unimiibo_logo_small.a3ebe8fe95fd58282ea9.png",
-    "static/media/unimiibo_logo_bg.png": "/unimiibo/static/media/unimiibo_logo_bg.0b53e3e0556a895ed2a0.png",
     "static/media/amiibo_placeholder_404.png": "/unimiibo/static/media/amiibo_placeholder_404.7b3cf40e645e35b45a8f.png",
     "static/media/star-big.svg": "/unimiibo/static/media/star-big.07c4441d9b7644f11e1c.svg",
     "index.html": "/unimiibo/index.html",
     "static/media/star-small.svg": "/unimiibo/static/media/star-small.cb38eb128cc04fa13628.svg",
     "static/media/circle-big.svg": "/unimiibo/static/media/circle-big.237d665210ced78dbe5c.svg",
     "static/media/circle-small.svg": "/unimiibo/static/media/circle-small.cbc466a745231b1ffaae.svg",
-    "main.574931a5.css.map": "/unimiibo/static/css/main.574931a5.css.map",
-    "main.547a583a.js.map": "/unimiibo/static/js/main.547a583a.js.map",
+    "main.b56f8f1a.css.map": "/unimiibo/static/css/main.b56f8f1a.css.map",
+    "main.90763fc8.js.map": "/unimiibo/static/js/main.90763fc8.js.map",
     "787.6c610d2d.chunk.js.map": "/unimiibo/static/js/787.6c610d2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.574931a5.css",
-    "static/js/main.547a583a.js"
+    "static/css/main.b56f8f1a.css",
+    "static/js/main.90763fc8.js"
   ]
 }
